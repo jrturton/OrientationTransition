@@ -13,6 +13,7 @@
 		79E1EFAF1B72240E000F07FE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79E1EFAE1B72240E000F07FE /* Images.xcassets */; };
 		79E1EFB21B72240E000F07FE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 79E1EFB01B72240E000F07FE /* LaunchScreen.xib */; };
 		79E1EFBE1B72240E000F07FE /* transitionExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E1EFBD1B72240E000F07FE /* transitionExampleTests.swift */; };
+		79E1EFC81B72242D000F07FE /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E1EFC71B72242D000F07FE /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		79E1EFB71B72240E000F07FE /* transitionExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = transitionExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		79E1EFBC1B72240E000F07FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79E1EFBD1B72240E000F07FE /* transitionExampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transitionExampleTests.swift; sourceTree = "<group>"; };
+		79E1EFC71B72242D000F07FE /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				79E1EFAE1B72240E000F07FE /* Images.xcassets */,
 				79E1EFB01B72240E000F07FE /* LaunchScreen.xib */,
 				79E1EFA51B72240E000F07FE /* Supporting Files */,
+				79E1EFC71B72242D000F07FE /* ViewController2.swift */,
 			);
 			path = transitionExample;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			files = (
 				79E1EFAA1B72240E000F07FE /* ViewController.swift in Sources */,
 				79E1EFA81B72240E000F07FE /* AppDelegate.swift in Sources */,
+				79E1EFC81B72242D000F07FE /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
